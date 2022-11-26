@@ -1,0 +1,27 @@
+{
+  "name": "beatzMix",
+  "short_name": "beatzMix",
+  "start_url": "/",
+  "display": "standalone",
+  "scope": "/",
+  "background_color": "#182034",
+  "theme_color": "#3a4764",
+  "orientation": "portrait-primary",
+  "icons": [
+  {
+    "src": "manifest-icon-512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "purpose": "maskable"
+  },
+  {
+    "src": "manifest-icon-512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+],
+
+"description": "A simple Creative coding site."
+
+  
+}
